@@ -9,12 +9,12 @@
     grid-template-columns: repeat(2, 1fr);
   }
   .section-how {
-    margin-left: 2.4rem;
-    margin-right: 2.4rem;
+    padding-left: 2.4rem;
+    padding-right: 2.4rem;
   }
   .section-glass {
-    margin-left: 2.4rem;
-    margin-right: 2.4rem;
+    padding-left: 2.4rem;
+    padding-right: 2.4rem;
   }
   .section-pricing {
     padding-left: 2.4rem;
@@ -57,12 +57,12 @@
     padding: 9.6rem 3.2rem;
   }
   .section-how {
-    margin-left: 2.4rem;
-    margin-right: 2.4rem;
+    padding-left: 2.4rem;
+    padding-right: 2.4rem;
   }
   .section-glass {
-    margin-left: 2.4rem;
-    margin-right: 2.4rem;
+    padding-left: 2.4rem;
+    padding-right: 2.4rem;
   }
   .section-pricing {
     padding-left: 2.4rem;
@@ -167,12 +167,12 @@
     font-size: 3rem;
   }
   .section-how {
-    margin-left: 2.4rem;
-    margin-right: 2.4rem;
+    padding-left: 2.4rem;
+    padding-right: 2.4rem;
   }
   .section-glass {
-    margin-left: 2.4rem;
-    margin-right: 2.4rem;
+    padding-left: 2.4rem;
+    padding-right: 2.4rem;
   }
   .section-pricing {
     padding-left: 2.4rem;
@@ -218,12 +218,12 @@
     grid-column: span 3;
   }
   .section-how {
-    margin-left: 2.4rem;
-    margin-right: 2.4rem;
+    padding-left: 2.4rem;
+    padding-right: 2.4rem;
   }
   .section-glass {
-    margin-left: 2.4rem;
-    margin-right: 2.4rem;
+    padding-left: 2.4rem;
+    padding-right: 2.4rem;
   }
   .section-pricing {
     padding-left: 2.4rem;
@@ -292,12 +292,12 @@
     padding: 3.2rem;
   }
   .section-how {
-    margin-left: 2.4rem;
-    margin-right: 2.4rem;
+    padding-left: 2.4rem;
+    padding-right: 2.4rem;
   }
   .section-glass {
-    margin-left: 2.4rem;
-    margin-right: 2.4rem;
+    padding-left: 2.4rem;
+    padding-right: 2.4rem;
   }
   .section-pricing {
     padding-left: 2.4rem;
